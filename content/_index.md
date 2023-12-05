@@ -42,12 +42,12 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: ssill
-    id: ssill
+  - block: skills
+    id: skills
     content:
-      title: Ssill
+      title: Skills
       text: ''
-      # Choose a user to display ssill from (a folder name within `content/authors/`)
+      # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
       columns: '2'
