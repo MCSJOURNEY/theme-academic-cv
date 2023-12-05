@@ -61,31 +61,31 @@ sections:
       flip_alt_rows: false
 ####################################################################
 ###################################################################
-- block: accomplishments
+  - block: portfolio
     id: projects
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Honors'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      items:
-        - date_end: '2023-09-01'
-          date_start: '2023-08-01'
-          description: ''
-          organization: Journal of Sichuan Normal University(Natural Science)
-          title: Some notes on ideals in L-algebra (In chinese)
-        # - certificate_url: https://www.datacamp.com
-        #   date_end: '2020-12-21'
-        #   date_start: '2020-07-01'
-        #   description: ''
-        #   icon: datacamp
-        #   organization: DataCamp
-        #   organization_url: https://www.datacamp.com
-        #   title: 'Object-Oriented Programming in R'
-        #   url: ''
+      title: Projects
+      filters:
+        folders:
+          - projects
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Article
+          tag: Article
     design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      view: compact
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
 ####################################################################
 ###################################################################
   - block: accomplishments
