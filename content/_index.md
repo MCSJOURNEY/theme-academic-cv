@@ -101,16 +101,8 @@ sections:
       flip_alt_rows: false
 ####################################################################
 ###################################################################
-  - block: markdown
-    id: awards
-    content:
-      title: Awards
-      text: 'test'
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      # url_pdf: ''
-    design:
-      columns: '2'
   - block: accomplishments
+    id: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards'
@@ -118,44 +110,57 @@ sections:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       items:
-       # - certificate_url: https://www.coursera.org
         - date_end: ''
           date_start: '2021-01-25'
           description: ''
-        #  icon: coursera
           organization: Coursera
-        #  organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
+        -  date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
           organization: edX
-          organization_url: https://www.edx.org
           title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        # - certificate_url: https://www.datacamp.com
+        #   date_end: '2020-12-21'
+        #   date_start: '2020-07-01'
+        #   description: ''
+        #   icon: datacamp
+        #   organization: DataCamp
+        #   organization_url: https://www.datacamp.com
+        #   title: 'Object-Oriented Programming in R'
+        #   url: ''
     design:
-      columns: '2'
+      columns: '1'
 ####################################################################
 ###################################################################
-  - block: markdown
+  - block: accomplishments
     id: honors
     content:
-      title: Honors
-      text: 'test'
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      # url_pdf: ''
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Honors'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      items:
+        - date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Coursera
+          title: Neural Networks and Deep Learning
+        -  date_end: ''
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          organization: edX
+          title: Blockchain Fundamentals
+        # - certificate_url: https://www.datacamp.com
+        #   date_end: '2020-12-21'
+        #   date_start: '2020-07-01'
+        #   description: ''
+        #   icon: datacamp
+        #   organization: DataCamp
+        #   organization_url: https://www.datacamp.com
+        #   title: 'Object-Oriented Programming in R'
+        #   url: ''
     design:
       columns: '1'
 ####################################################################
