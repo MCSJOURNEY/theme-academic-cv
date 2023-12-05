@@ -83,7 +83,7 @@ sections:
       username: admin
     design:
       columns: '1'
-      view: compact
+      view: Card
 ####################################################################
 ###################################################################
   - block: accomplishments
