@@ -85,6 +85,12 @@ sections:
       date_format: Jan 2006
       items:
         - date_end: ''
+          date_start: '2023-06-01'
+          description: 'Hebei Province'
+          organization: Chinese Mathematical Society
+          title: 2023 Outstanding graduates of ordinary colleges and universities
+          ##############################
+        - date_end: ''
           date_start: '2021-12-24'
           description: 'Provincial First Prize'
           organization: Chinese Mathematical Society
