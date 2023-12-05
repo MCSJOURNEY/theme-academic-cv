@@ -37,10 +37,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Pure Mathematics
-      institution: 2023-, Wuhan University
+    - course: Pure Mathematics
+      institution: Wuhan University, Master, 2023-Now
     - course: BSc in Mathematics and applied mathematics
-      institution: 2019-2023, Hebei GEO University
+      institution: Hebei GEO University, Bachelor, 2019-2023
 
 # Ssill
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
