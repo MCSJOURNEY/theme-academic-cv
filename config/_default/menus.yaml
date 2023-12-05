@@ -13,7 +13,7 @@ main:
   # - name: Projects
   #   url: '#projects'
   #   weight: 20
- - name: Skills
+  - name: Skills
     url: '#skills'  
     weight: 30
   # - name: Award
