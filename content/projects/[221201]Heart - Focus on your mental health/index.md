@@ -45,7 +45,7 @@ projects: []
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'
-
+slides: example
 ---
 
 {{% callout note %}}
