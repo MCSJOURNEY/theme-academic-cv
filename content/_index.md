@@ -18,8 +18,6 @@ sections:
         label: Ask a question
         url: https://discord.gg/z8wNYzb
       cta_note:
-        # label: >-
-        #   <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/theme-academic-cv" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
       text: 
     design:
       background:
@@ -58,7 +56,6 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: compact
   #    view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -86,7 +83,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-    #  view: showcase
+      view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 ####################################################################
@@ -118,38 +115,6 @@ sections:
       columns: '1'
 ####################################################################
 ###################################################################
-  # - block: accomplishments
-  #   id: honors
-  #   content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'Honors'
-  #     subtitle:
-  #     # Date format: https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     items:
-  #       - date_end: ''
-  #         date_start: '2021-01-25'
-  #         description: ''
-  #         organization: Coursera
-  #         title: Neural Networks and Deep Learning
-  #       -  date_end: ''
-  #         date_start: '2021-01-01'
-  #         description: Formulated informed blockchain models, hypotheses, and use cases.
-  #         organization: edX
-  #         title: Blockchain Fundamentals
-  #       # - certificate_url: https://www.datacamp.com
-  #       #   date_end: '2020-12-21'
-  #       #   date_start: '2020-07-01'
-  #       #   description: ''
-  #       #   icon: datacamp
-  #       #   organization: DataCamp
-  #       #   organization_url: https://www.datacamp.com
-  #       #   title: 'Object-Oriented Programming in R'
-  #       #   url: ''
-  #   design:
-  #     columns: '1'
-####################################################################
-###################################################################
   - block: skills
     id: skills
     content:
@@ -158,7 +123,7 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '2'
+      columns: '1'
 ####################################################################
 ###################################################################
   # - block: accomplishments
