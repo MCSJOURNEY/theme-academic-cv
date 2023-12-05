@@ -85,10 +85,16 @@ sections:
       date_format: Jan 2006
       items:
         - date_end: ''
-          date_start: '2021-01-25'
-          description: ''
+          date_start: '2020-12'
+          description: 'Third Prize'
           organization: Chinese Mathematical Society
-          title: Neural Networks and Deep Learning
+          title: 2020 The Chinese Mathematics Competitions
+          ##############################
+        - date_end: ''
+          date_start: '2018-09'
+          description: 'Second Prize'
+          organization: Chinese Mathematical Society
+          title: 2018 Chinese High School Mathematics League
     design:
       columns: '1'
 ####################################################################
