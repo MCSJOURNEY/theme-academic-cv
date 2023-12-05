@@ -7,21 +7,21 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Study
-    url: '#study'
+  # - name: Study
+  #   url: '#study'
+  #   weight: 20
+  - name: Projects
+    url: '#projects'
     weight: 20
-  - name: Project
-    url: '#project'
+ - name: Skills
+    url: '#skills'  
     weight: 30
- - name: Skill
-    url: '#skill'  
-    weight: 40
-  - name: Award
-    url: '#award'
-    weight: 50
-  - name: Honor
-    url: '#honor'
-    weight: 60
+  # - name: Award
+  #   url: '#award'
+  #   weight: 50
+  # - name: Honor
+  #   url: '#honor'
+  #   weight: 60
   # - name: Blog
   #   url: 'https://blog2.mcj.life/'
   #   weight: 70
