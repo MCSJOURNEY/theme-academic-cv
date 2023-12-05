@@ -75,17 +75,6 @@ sections:
    #   flip_alt_rows: true
 ####################################################################
 ###################################################################
-  - block: skills
-    id: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
-####################################################################
-###################################################################
   - block: accomplishments
     id: honors
     content:
@@ -100,6 +89,17 @@ sections:
           description: ''
           organization: Chinese Mathematical Society
           title: Neural Networks and Deep Learning
+    design:
+      columns: '1'
+####################################################################
+###################################################################
+  - block: skills
+    id: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
     design:
       columns: '1'
 ####################################################################
