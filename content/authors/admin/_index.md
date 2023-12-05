@@ -68,12 +68,12 @@ skills:
       - name: MATLAB
         description: ''
         percent: 60
-        icon: python
+        icon: matlab
         icon_pack: fab
       - name: LaTeX
         description: ''
         percent: 70
-        icon: chart-line
+        icon: latex
         icon_pack: fas
 
 
