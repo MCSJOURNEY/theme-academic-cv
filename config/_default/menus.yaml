@@ -7,17 +7,17 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Study
-    url: '#study'
-    weight: 20
   - name: Projects
     url: '#projects'
+    weight: 20
+  - name: Study
+    url: '#study'
     weight: 30
-  - name: Skills
-    url: '#skills'  
-    weight: 40
   - name: Honors
-    url: '#honors'
+    url: '#honors' 
+    weight: 40
+  - name: Skills
+    url: '#skills' 
     weight: 50
   # - name: Projects
   #   url: '#projects'
