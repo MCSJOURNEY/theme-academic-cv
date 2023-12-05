@@ -83,7 +83,7 @@ sections:
           tag: MATH
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -110,7 +110,7 @@ sections:
           tag: MATH
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -124,7 +124,7 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       # url_pdf: ''
     design:
-      columns: '1'
+      columns: '2'
 ####################################################################
 ###################################################################
   - block: markdown
