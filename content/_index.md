@@ -56,7 +56,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: compact
+      view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
     
@@ -75,6 +75,17 @@ sections:
       view: citation
 ####################################################################
 ###################################################################
+  - block: skills
+    id: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
+####################################################################
+###################################################################
   - block: accomplishments
     id: honors
     content:
@@ -89,17 +100,6 @@ sections:
           description: ''
           organization: 中国数学会
           title: Neural Networks and Deep Learning
-    design:
-      columns: '1'
-####################################################################
-###################################################################
-  - block: skills
-    id: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
     design:
       columns: '1'
 ####################################################################
