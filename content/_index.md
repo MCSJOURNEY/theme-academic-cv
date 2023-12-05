@@ -93,7 +93,7 @@ sections:
           title: Neural Networks and Deep Learning
     design:
       columns: '1'
-      view: compact
+      view: List
 ####################################################################
 ###################################################################
   - block: skills

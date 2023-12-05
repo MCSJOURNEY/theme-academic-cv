@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Zhong Chen
+title: MCSJOURNEYS
 
 # Name pronunciation (optional)
-name_pronunciation: MCSJOURNEY
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: MCS
-last_name: JOURNEY
+first_name: 
+last_name: 
 
 # Status emoji
 status:
