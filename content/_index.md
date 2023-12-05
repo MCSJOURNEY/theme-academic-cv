@@ -74,7 +74,7 @@ sections:
           date_start: '2023-08-01'
           description: ''
           organization: Journal of Sichuan Normal University(Natural Science)
-          title: Some notes on ideals in $L$-algebra (In chinese)
+          title: Some notes on ideals in L-algebra (In chinese)
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
         #   date_start: '2020-07-01'
