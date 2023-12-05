@@ -61,7 +61,7 @@ sections:
       flip_alt_rows: false
 ####################################################################
 ###################################################################
-  - block: portfolio
+  - block: collection
     id: projects
     content:
       title: Projects
