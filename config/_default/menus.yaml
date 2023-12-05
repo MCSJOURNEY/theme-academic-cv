@@ -10,17 +10,17 @@ main:
   - name: Study
     url: '#study'
     weight: 20
-  - name: Post
-    url: '#post'
+  - name: Posts
+    url: '#posts'
     weight: 30
-  - name: Award
-    url: '#award'
+  - name: Awards
+    url: '#awards'
     weight: 40
-  - name: Honor
-    url: '#honor'
+  - name: Honors
+    url: '#honors'
     weight: 50
-  - name: Skill
-    url: '#skill'  
+  - name: Skills
+    url: '#skills'  
     weight: 60
   # - name: Projects
   #   url: '#projects'
