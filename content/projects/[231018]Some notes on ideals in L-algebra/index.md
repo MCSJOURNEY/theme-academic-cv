@@ -3,8 +3,6 @@ title: Some notes on ideals in $L$-algebra (In Chinese)
 summary: A note of Ergodic Theory with a view towards Number Theory.
 tags:
   - Article
-authors:
-  - admin
 date: '2023-10-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
