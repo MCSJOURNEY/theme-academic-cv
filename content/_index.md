@@ -88,7 +88,7 @@ sections:
       flip_alt_rows: false
 ####################################################################
 ###################################################################
-  - block: accomplishments
+  - block: collection
     id: honors
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
