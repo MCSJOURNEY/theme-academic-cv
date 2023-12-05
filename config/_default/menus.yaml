@@ -10,8 +10,8 @@ main:
   - name: Study
     url: '#study'
     weight: 20
-  - name: Posts
-    url: '#posts'
+  - name: Projects
+    url: '#projects'
     weight: 30
   - name: Awards
     url: '#awards'
