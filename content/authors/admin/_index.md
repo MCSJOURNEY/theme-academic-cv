@@ -39,7 +39,7 @@ education:
   courses:
     - course: Pure Mathematics
       institution: Wuhan University, Master, 2023-Now
-    - course: BSc in Mathematics and applied mathematics
+    - course: Mathematics and applied mathematics
       institution: Hebei GEO University, Bachelor, 2019-2023
 
 # Ssill
