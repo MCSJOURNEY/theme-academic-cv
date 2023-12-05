@@ -19,7 +19,7 @@ publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "College Student Innovation and Entrepreneurship Training Program"
-publication_short: "Provincial"
+publication_short: "College Student Innovation and Entrepreneurship Training Program"
 
 abstract: Provincial College Student Innovation and Entrepreneurship Training Program.
 

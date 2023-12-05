@@ -17,9 +17,9 @@ publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Sichuan Normal University(Natural Science)"
-publication_short: "received"
+publication_short: "Journal of Sichuan Normal University(Natural Science)"
 
-abstract: Accepted.
+abstract: received.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

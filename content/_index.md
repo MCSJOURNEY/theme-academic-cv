@@ -86,14 +86,14 @@ sections:
       items:
         - date_end: ''
           date_start: '2023-06-01'
-          description: 'Hebei Province'
+          description: 'Hebei GEO University'
           organization: Hebei GEO University
           title: 2023 Outstanding graduate
           ##############################
         - date_end: ''
           date_start: '2023-06-01'
           description: 'Hebei Province'
-          organization: Chinese Mathematical Society
+          organization: Hebei Education Department
           title: 2023 Outstanding graduates of ordinary colleges and universities
           ##############################
         - date_end: ''
@@ -107,6 +107,12 @@ sections:
           description: 'National Second Prize'
           organization: China Society for Industrial and Applied Mathematics
           title: 2021 Contemporary Undergraduate Mathematical Contest In Modeling
+          ##############################
+        - date_end: ''
+          date_start: '2021-10-24'
+          description: 'The second session'
+          organization: school of Mathematics and Physics, Hebei GEO University
+          title: Chairman of the Second Mental Health Committee
           ##############################
         - date_end: ''
           date_start: '2020-12-24'
