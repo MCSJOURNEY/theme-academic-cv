@@ -124,7 +124,7 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       # url_pdf: ''
     design:
-      columns: '2'
+      columns: '1'
 ####################################################################
 ###################################################################
   - block: markdown
@@ -135,7 +135,7 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       # url_pdf: ''
     design:
-      columns: '2'
+      columns: '1'
 ####################################################################
 ###################################################################
   - block: skills
