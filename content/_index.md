@@ -56,9 +56,9 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: showcase
+    #  view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: true
+   #   flip_alt_rows: true
 ####################################################################
 ###################################################################
   - block: collection
@@ -97,7 +97,7 @@ sections:
         - date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: 中国数学会
+          organization: Chinese Mathematical Society
           title: Neural Networks and Deep Learning
     design:
       columns: '1'
