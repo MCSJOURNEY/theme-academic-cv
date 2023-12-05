@@ -52,15 +52,16 @@ sections:
   #     columns: '2'
 ####################################################################
 ###################################################################
-  - block: markdown
+  - block: collection
     id: study
     content:
       title: Study
-      text: 'Test'
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      # url_pdf: ''
+      filters:
+        folders:
+          - event
     design:
       columns: '2'
+      view: compact
 ####################################################################
 ###################################################################
   - block: collection
@@ -242,14 +243,4 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     columns: '2'
-  #     view: compact
 ---
