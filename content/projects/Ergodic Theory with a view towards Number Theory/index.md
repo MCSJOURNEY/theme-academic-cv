@@ -1,5 +1,5 @@
 ---
-title: Ergodic Theory with a view towards Number Theory
+title: Some notes on ideals in $L$-algebra (in chinese)
 summary: A note of Ergodic Theory with a view towards Number Theory.
 tags:
   - MATH
