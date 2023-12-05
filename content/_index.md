@@ -88,7 +88,7 @@ sections:
       flip_alt_rows: false
 ####################################################################
 ###################################################################
-  - block: collection
+  - block: accomplishments
     id: honors
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -102,15 +102,6 @@ sections:
           description: ''
           organization: 中国数学会
           title: Neural Networks and Deep Learning
-        # - certificate_url: https://www.datacamp.com
-        #   date_end: '2020-12-21'
-        #   date_start: '2020-07-01'
-        #   description: ''
-        #   icon: datacamp
-        #   organization: DataCamp
-        #   organization_url: https://www.datacamp.com
-        #   title: 'Object-Oriented Programming in R'
-        #   url: ''
     design:
       columns: '1'
       view: Card
