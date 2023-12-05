@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 析悦子
+title: MCJ
 
 # Name pronunciation (optional)
 name_pronunciation: MCS JOURNEY
@@ -56,7 +56,7 @@ skills:
       - name: Tennis
         description: ''
         percent: 50
-        icon: table-tennis
+        icon: tennis
         icon_pack: fas
       - name: Skating
         description: ''
