@@ -85,14 +85,26 @@ sections:
       date_format: Jan 2006
       items:
         - date_end: ''
-          date_start: '2020-12'
-          description: 'Third Prize'
+          date_start: '2021-12-24'
+          description: 'Provincial First Prize'
+          organization: Chinese Mathematical Society
+          title: 2021 The Chinese Mathematics Competitions
+          ##############################
+        - date_end: ''
+          date_start: '2021-11-30'
+          description: 'National Second Prize'
+          organization: China Society for Industrial and Applied Mathematics
+          title: 2021 Contemporary Undergraduate Mathematical Contest In Modeling
+          ##############################
+        - date_end: ''
+          date_start: '2020-12-24'
+          description: 'Provincial Third Prize'
           organization: Chinese Mathematical Society
           title: 2020 The Chinese Mathematics Competitions
           ##############################
         - date_end: ''
-          date_start: '2018-09'
-          description: 'Second Prize'
+          date_start: '2018-09-09'
+          description: 'Provincial Second Prize'
           organization: Chinese Mathematical Society
           title: 2018 Chinese High School Mathematics League
     design:
