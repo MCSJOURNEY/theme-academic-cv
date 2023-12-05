@@ -36,32 +36,16 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+####################################################################
+###################################################################
   - block: about.biography
     id: about
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  # - block: study
-  #   id: study
-  #   content:
-  #     title: Study
-  #     text: '1231231231'
-  #     # Choose a user to display skills from (a folder name within `content/authors/`)
-  #   design:
-  #     columns: '2'
 ####################################################################
 ###################################################################
-  # - block: collection
-  #   id: study
-  #   content:
-  #     title: Study
-  #     filters:
-  #       folders:
-  #         - study
-  #   design:
-  #     columns: '2'
-  #     view: compact
   - block: portfolio
     id: study
     content:
@@ -84,6 +68,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      view: compact
   #    view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -111,7 +96,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: showcase
+    #  view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 ####################################################################
