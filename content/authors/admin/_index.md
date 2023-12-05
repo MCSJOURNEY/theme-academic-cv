@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 析悦子
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: MCS JOURNEY
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: MCS
+last_name: JOURNEY
 
 # Status emoji
 status:
@@ -21,8 +21,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Wuhan University
+    url: https://www.Wuhan.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
