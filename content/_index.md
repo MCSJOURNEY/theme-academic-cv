@@ -34,19 +34,6 @@ sections:
       username: admin
 ####################################################################
 ###################################################################
-  - block: collection
-    content:
-      title: Projects
-      text: 
-      filters:
-        folders:
-          - projects
-        exclude_featured: true
-    design:
-      columns: '1'
-      view: citation
-####################################################################
-###################################################################
   - block: portfolio
     id: study
     content:
@@ -74,6 +61,30 @@ sections:
    #   flip_alt_rows: true
 ####################################################################
 ###################################################################
+  - block: collection
+    content:
+      title: Projects
+      text: 
+      filters:
+        folders:
+          - projects
+        exclude_featured: true
+    design:
+      columns: '1'
+      view: citation
+####################################################################
+###################################################################
+  - block: skills
+    id: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
+####################################################################
+###################################################################
   - block: accomplishments
     id: honors
     content:
@@ -90,18 +101,6 @@ sections:
           title: Neural Networks and Deep Learning
     design:
       columns: '1'
-####################################################################
-###################################################################
- - block: skills
-    id: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
-      view: Card
 ####################################################################
 ###################################################################
   # - block: accomplishments
