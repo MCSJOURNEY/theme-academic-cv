@@ -58,7 +58,7 @@ sections:
       title: Study
       filters:
         folders:
-          - event
+          - study
     design:
       columns: '2'
       view: compact
