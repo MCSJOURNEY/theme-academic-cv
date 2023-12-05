@@ -113,7 +113,7 @@ sections:
         - date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: Coursera
+        #  organization: Coursera
           title: Neural Networks and Deep Learning
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
