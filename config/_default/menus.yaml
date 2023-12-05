@@ -10,9 +10,9 @@ main:
   - name: Study
     url: '#study'
     weight: 20
-  - name: Post
-    url: '#post'
-    weight: 30
+  # - name: Post
+  #   url: '#post'
+  #   weight: 30
   # - name: Award
   #   url: '#award'
   #   weight: 40

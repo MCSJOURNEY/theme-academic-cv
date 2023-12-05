@@ -50,10 +50,10 @@ sections:
   #     # Choose a user to display skills from (a folder name within `content/authors/`)
   #   design:
   #     columns: '2'
-  - block: skill
-    id: skill
+  - block: skills
+    id: skills
     content:
-      title: Skill
+      title: Skills
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
