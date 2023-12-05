@@ -50,7 +50,8 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: experience
+  - block: experience'
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -284,9 +285,16 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
+      courses:
+        - course: PhD in Artificial Intelligence
+          institution: Stanford University
+          year: 2012
+        - course: MEng in Artificial Intelligence
+          institution: Massachusetts Institute of Technology
+          year: 2009
+        - course: BSc in Artificial Intelligence
+          institution: Massachusetts Institute of Technology
+          year: 2008
     design:
       columns: '2'
       view: compact
