@@ -1,5 +1,5 @@
 ---
-title: Mathematical Writing in English
+title: Real Analysis
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
@@ -23,9 +23,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#   focal_point: Right
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 
 links:
   - icon: twitter
