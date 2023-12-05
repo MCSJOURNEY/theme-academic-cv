@@ -31,7 +31,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Dynamical System
   - Fractal Geometry
-  - L-algebra
+  - Element Chemistry
+  - Astronomy
 
 # Education to show in About widget
 education:
@@ -111,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Studying for master's degree in basic mathematics in Wuhan University, interested in dynamical systems, fractal geometry and L-algebra. All kinds of interesting things, a wide range of hobbies.
+Studying in pure mathematics in Wuhan University, interested in dynamical systems and fractal. All kinds of interesting things, a wide range of hobbies.
 {style="text-align: justify;"}
