@@ -112,7 +112,7 @@ sections:
           date_start: '2021-10-24'
           description: 'The second session'
           organization: school of Mathematics and Physics, Hebei GEO University
-          title: Chairman of the Second Mental Health Committee
+          title: Chairman of Mental Health Committee
           ##############################
         - date_end: ''
           date_start: '2020-12-24'
