@@ -23,9 +23,15 @@ publication_short: "College Student Innovation and Entrepreneurship Training Pro
 
 abstract: Provincial College Student Innovation and Entrepreneurship Training Program.
 
+image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
+
 tags:
 - Source Themes
 featured: false
+
 
 # links:
 # - name: Custom Link
