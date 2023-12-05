@@ -110,59 +110,49 @@ sections:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       items:
-        - date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
           description: ''
-          organization: Coursera
-          title: Neural Networks and Deep Learning
-        -  date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          title: Blockchain Fundamentals
-        # - certificate_url: https://www.datacamp.com
-        #   date_end: '2020-12-21'
-        #   date_start: '2020-07-01'
-        #   description: ''
-        #   icon: datacamp
-        #   organization: DataCamp
-        #   organization_url: https://www.datacamp.com
-        #   title: 'Object-Oriented Programming in R'
-        #   url: ''
+          icon: datacamp
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Object-Oriented Programming in R'
+          url: ''
     design:
       columns: '1'
 ####################################################################
 ###################################################################
-  - block: accomplishments
-    id: honors
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Honors'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      items:
-        - date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          title: Neural Networks and Deep Learning
-        -  date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          title: Blockchain Fundamentals
-        # - certificate_url: https://www.datacamp.com
-        #   date_end: '2020-12-21'
-        #   date_start: '2020-07-01'
-        #   description: ''
-        #   icon: datacamp
-        #   organization: DataCamp
-        #   organization_url: https://www.datacamp.com
-        #   title: 'Object-Oriented Programming in R'
-        #   url: ''
-    design:
-      columns: '1'
+  # - block: accomplishments
+  #   id: honors
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #     title: 'Honors'
+  #     subtitle:
+  #     # Date format: https://docs.hugoblox.com/customization/#date-format
+  #     date_format: Jan 2006
+  #     items:
+  #       - date_end: ''
+  #         date_start: '2021-01-25'
+  #         description: ''
+  #         organization: Coursera
+  #         title: Neural Networks and Deep Learning
+  #       -  date_end: ''
+  #         date_start: '2021-01-01'
+  #         description: Formulated informed blockchain models, hypotheses, and use cases.
+  #         organization: edX
+  #         title: Blockchain Fundamentals
+  #       # - certificate_url: https://www.datacamp.com
+  #       #   date_end: '2020-12-21'
+  #       #   date_start: '2020-07-01'
+  #       #   description: ''
+  #       #   icon: datacamp
+  #       #   organization: DataCamp
+  #       #   organization_url: https://www.datacamp.com
+  #       #   title: 'Object-Oriented Programming in R'
+  #       #   url: ''
+  #   design:
+  #     columns: '1'
 ####################################################################
 ###################################################################
   - block: skills
