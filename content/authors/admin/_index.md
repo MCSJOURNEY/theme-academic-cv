@@ -1,6 +1,6 @@
 ---
 # Display name
-title: MCJ
+title: ZC
 
 # Name pronunciation (optional)
 name_pronunciation: MCS JOURNEY
