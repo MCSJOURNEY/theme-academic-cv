@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ZC
+title: Zhong Chen
 
 # Name pronunciation (optional)
 name_pronunciation: MCS JOURNEY
