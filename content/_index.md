@@ -56,21 +56,19 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-  #    view: showcase
+      view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+    
 ####################################################################
 ###################################################################
   - block: collection
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Projects
+      text: 
       filters:
         folders:
-          - publication
+          - projects
         exclude_featured: true
     design:
       columns: '1'
@@ -93,7 +91,6 @@ sections:
           title: Neural Networks and Deep Learning
     design:
       columns: '1'
-      view: List
 ####################################################################
 ###################################################################
   - block: skills
