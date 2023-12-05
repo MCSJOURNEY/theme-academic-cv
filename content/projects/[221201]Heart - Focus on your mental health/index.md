@@ -25,7 +25,7 @@ abstract: Provincial College Student Innovation and Entrepreneurship Training Pr
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: Custom Link
