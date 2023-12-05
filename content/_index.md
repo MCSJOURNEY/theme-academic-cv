@@ -111,6 +111,7 @@ sections:
         #   organization_url: https://www.datacamp.com
         #   title: 'Object-Oriented Programming in R'
         #   url: ''
+    view: Card
     design:
       columns: '1'
 ####################################################################

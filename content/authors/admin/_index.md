@@ -3,7 +3,7 @@
 title: Zhong Chen
 
 # Name pronunciation (optional)
-name_pronunciation: MCS JOURNEY
+name_pronunciation: MCSJOURNEY
 
 # Full name (for SEO)
 first_name: MCS
