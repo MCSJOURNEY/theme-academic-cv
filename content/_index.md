@@ -110,15 +110,11 @@ sections:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       items:
-        #- certificate_url: https://www.datacamp.com
-        -  date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - date_end: ''
+          date_start: '2021-01-25'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-        #  organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          organization: Coursera
+          title: Neural Networks and Deep Learning
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
         #   date_start: '2020-07-01'
