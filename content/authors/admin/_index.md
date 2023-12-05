@@ -53,15 +53,15 @@ skills:
         percent: 70
         icon: person-swimming
         icon_pack: fas
-      - name: Skating
-        description: ''
-        percent: 60
-        icon: person-skating
-        icon_pack: fas
       - name: Tennis
         description: ''
         percent: 50
         icon: table-tennis
+        icon_pack: fas
+      - name: Skating
+        description: ''
+        percent: 60
+        icon: skating
         icon_pack: fas
   - name: Technical
     items:
