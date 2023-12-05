@@ -369,7 +369,7 @@ renders as
 
 {{< spoiler text="Click to view the spoiler" >}} You found me! {{< /spoiler >}}
 
-### Icons
+### Icons(图标)
 
 Academic enables you to use a wide range of [icons from _Font Awesome_ and _Academicons_](https://docs.hugoblox.com/getting-started/page-builder/#icons) in addition to [emojis](https://docs.hugoblox.com/content/writing-markdown-latex/#emojis).
 

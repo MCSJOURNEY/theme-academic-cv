@@ -44,6 +44,25 @@ education:
 # Ssill
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Swimming
+        description: ''
+        percent: 70
+        icon: person-swimming
+        icon_pack: fas
+      - name: Skating
+        description: ''
+        percent: 60
+        icon: person-skating
+        icon_pack: fas
+      - name: Tennis
+        description: ''
+        percent: 50
+        icon: table-tennis
+        icon_pack: fas
   - name: Technical
     items:
       - name: MATLAB
@@ -56,25 +75,7 @@ skills:
         percent: 70
         icon: chart-line
         icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Swim
-        description: ''
-        percent: 70
-        icon: person-hiking
-        icon_pack: fas
-      - name: Skating
-        description: ''
-        percent: 60
-        icon: Skating
-        icon_pack: fas
-      - name: Tennis
-        description: ''
-        percent: 50
-        icon: camera-retro
-        icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
