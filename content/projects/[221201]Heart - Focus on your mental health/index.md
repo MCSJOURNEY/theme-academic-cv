@@ -18,10 +18,10 @@ publishDate: "2022-12-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "College Student Innovation and Entrepreneurship Training Program"
 publication_short: "Provincial"
 
-abstract: College students innovation and entrepreneurship training project at provincial level.
+abstract: Provincial College Student Innovation and Entrepreneurship Training Program.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
