@@ -7,33 +7,33 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Projects
-    url: '#projects'
-    weight: 20
   - name: Study
     url: '#study'
+    weight: 20
+  - name: Projects
+    url: '#projects'
     weight: 30
-  - name: Honors
-    url: '#honors' 
-    weight: 40
   - name: Skills
-    url: '#skills' 
+    url: '#skills'  
+    weight: 40
+  - name: Honors
+    url: '#honors'
     weight: 50
+  # - name: Home
+  #   url: '#about'
+  #   weight: 10
   # - name: Projects
   #   url: '#projects'
   #   weight: 20
-  # - name: Skills
-  #   url: '#skills'  
+  # - name: Study
+  #   url: '#study'
   #   weight: 30
-  # - name: Award
-  #   url: '#award'
+  # - name: Honors
+  #   url: '#honors' 
+  #   weight: 40
+  # - name: Skills
+  #   url: '#skills' 
   #   weight: 50
-  # - name: Honor
-  #   url: '#honor'
-  #   weight: 60
-  # - name: Blog
-  #   url: 'https://blog2.mcj.life/'
-  #   weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
