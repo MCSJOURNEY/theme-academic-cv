@@ -1,7 +1,7 @@
 ---
 title: Some notes on ideals in $L$-algebra (In Chinese)
-tags:
-- Article
+# tags:
+# - Article
 authors:
 - admin
 - Robert Ford
