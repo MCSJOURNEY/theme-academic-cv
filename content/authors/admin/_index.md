@@ -41,9 +41,9 @@ education:
     - course: BSc in Mathematics and applied mathematics
       institution: 2019-2023, Hebei GEO University
 
-# Skills
+# Ssill
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
+ssill:
   - name: Technical
     items:
       - name: Python
