@@ -37,11 +37,9 @@ interests:
 education:
   courses:
     - course: MEng in Pure Mathematics
-      institution: Wuhan University
-      year: 2023-
+      institution: 2023-, Wuhan University
     - course: BSc in Mathematics and applied mathematics
-      institution: Hebei GEO University
-      year: 2019-2023
+      institution: 2019-2023, Hebei GEO University
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
