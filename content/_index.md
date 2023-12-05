@@ -34,6 +34,20 @@ sections:
       username: admin
 ####################################################################
 ###################################################################
+  - block: collection
+    id: projects
+    content:
+      title: Projects
+      text: 
+      filters:
+        folders:
+          - projects
+        exclude_featured: true
+    design:
+      columns: '1'
+      view: citation
+####################################################################
+###################################################################
   - block: portfolio
     id: study
     content:
@@ -59,19 +73,6 @@ sections:
     #  view: showcase
       # For Showcase view, flip alternate rows?
    #   flip_alt_rows: true
-####################################################################
-###################################################################
-  - block: collection
-    content:
-      title: Projects
-      text: 
-      filters:
-        folders:
-          - projects
-        exclude_featured: true
-    design:
-      columns: '1'
-      view: citation
 ####################################################################
 ###################################################################
   - block: skills
