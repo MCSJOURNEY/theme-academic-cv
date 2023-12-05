@@ -23,8 +23,9 @@ publication_short: "College Student Innovation and Entrepreneurship Training Pro
 
 abstract: Provincial College Student Innovation and Entrepreneurship Training Program.
 
-# Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+tags:
+- Source Themes
+featured: true
 
 # links:
 # - name: Custom Link
