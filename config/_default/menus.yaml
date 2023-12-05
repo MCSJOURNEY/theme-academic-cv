@@ -7,39 +7,38 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Study
-    url: '#study'
+  - name: Projects
+    url: '#projects'
     weight: 20
-  - name: Project
-    url: '#project'
+  - name: Experience
+    url: '#experience'
     weight: 30
- - name: Skill
-    url: '#skill'  
-    weight: 40
-  - name: Award
-    url: '#award'
-    weight: 50
-  - name: Honor
-    url: '#honor'
-    weight: 60
-  - name: Blog
-    url: 'https://blog2.mcj.life/'
-    weight: 70
-  # - name: Posts
-  #   url: '#posts'
-  #   weight: 40
-  # - name: Projects
-  #   url: '#projects'
-  #   weight: 50
-  # - name: Talks
-  #   url: '#talks'
-  #   weight: 60
-  # - name: Publications
-  #   url: '#featured'
-  #   weight: 50
-  # - name: Contact
-  #   url: '#contact'
-  #   weight: 60
+  - name: Skills
+    url: '#skills'  
+    weight: 30
+
+
+#   - name: Home
+#     url: '#about'
+#     weight: 10
+#   - name: Study
+#     url: '#study'
+#     weight: 20
+#   - name: Project
+#     url: '#project'
+#     weight: 30
+#  - name: Skill
+#     url: '#skill'  
+#     weight: 40
+#   - name: Award
+#     url: '#award'
+#     weight: 50
+#   - name: Honor
+#     url: '#honor'
+#     weight: 60
+#   - name: Blog
+#     url: 'https://blog2.mcj.life/'
+#     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
