@@ -50,15 +50,15 @@ sections:
   #     # Choose a user to display skills from (a folder name within `content/authors/`)
   #   design:
   #     columns: '2'
-    # - block: markdown
-    # id: study
-    # content:
-    #   title: Study
-    #   text: '213'
-    #   # Choose a user to display skills from (a folder name within `content/authors/`)
-    #   username: admin
-    # design:
-    #   columns: '2'
+    - block: markdown
+    id: study
+    content:
+      title: Study
+      text: '213'
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      url_pdf: ''
+    design:
+      columns: '2'
   - block: collection
     id: posts
     content:
